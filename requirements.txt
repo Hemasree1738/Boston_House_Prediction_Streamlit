@@ -1,3 +1,4 @@
 streamlit
-python
+pandas
 joblib
+scikit-learn
